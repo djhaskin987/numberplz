@@ -1,0 +1,9 @@
+/numberplz
+/main
+
+# Editor save files
+.\#*
+.*#
+.#*
+.*.sw[a-z]
+*~
